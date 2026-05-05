@@ -35,6 +35,19 @@
 👉 [View Project](https://github.com/RobinChahal0010/SmartLoanEngine-Java)
 
 ---
+### 💳 JSync Subscription Engine (Java SaaS Billing System)
+
+* A real-world **subscription & billing engine** inspired by Netflix/Spotify systems
+* Supports:
+  - 💰 Flexible billing (user-defined months)
+  - 🔁 Auto-renew subscription system
+  - 💸 Discount-based pricing logic
+  - ⚠️ Low balance & failure handling
+* Demonstrates **state-based system design (active/inactive subscriptions)**
+
+👉 Tech: Java (OOP, Collections, Calendar API)
+
+👉 [View Project](https://github.com/RobinChahal0010/JSync-Subscription-Engine)
 
 ### 🚖 Ride Fare & Surge Pricing Engine *(Upcoming)*
 
