@@ -46,34 +46,26 @@
 
 ## 🧠 Machine Learning & Web Apps
 ### 🎬 RetroTalkies – AI Powered Cinema Booking System 🔥
-* Full-stack movie booking platform with dynamic pricing using Machine Learning
-* Factors: demand, timing, occupancy, popularity
-* Includes authentication, dashboard, PDF tickets
+* AI-powered cinema booking system with dynamic pricing
+* ML predicts demand → adjusts ticket pricing in real-time
+* Includes auth, dashboard, PDF ticket generation
 * 👉 https://github.com/RobinChahal0010/RetroTalkies
 
-### 🩺 Health Predictor with SHAP
 
-* AI-based health risk prediction
-* SHAP explainability (🔥 standout feature)
-* PDF & Email reports
 
-### 💼 Salary Prediction App
 
-* Predict salaries using ML
-* Interactive UI + graphs
+### 🌱 AgriSense AI – Crop Intelligence System
 
-### 🩸 Diabetes Prediction System
-
-* Beginner ML project
-* Clean UI + visual reports
-
-### 🌾 Crop Recommendation System
-
-* Suggests best crop via soil & weather data
-* Profitability insights included
+* Crop recommendation + price forecasting (6 months ahead)
+* ML + Prophet time-series forecasting
+* Suggests most profitable crop & selling window
+* 👉 https://github.com/RobinChahal0010/AgriSense-AI
 
 ---
-
+### 🧪 Other ML Projects
+* Health Predictor (SHAP explainability)
+* Salary Prediction
+* Diabetes Detection
 ## 🛠️ Other Projects
 
 ### 🔍 Code Inspector
