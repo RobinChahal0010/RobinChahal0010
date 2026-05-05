@@ -12,7 +12,7 @@
 ---
 
 ## 👾 About Me
-```bash
+bash
 FILE: system.log
 > Name     : Robinpreet Singh Chahal
 > Role     : Java Backend Developer
@@ -21,7 +21,7 @@ FILE: system.log
 > Strength : OOP • DSA • Backend Logic
 > Motto    : "Building systems that think before they act"
 
----
+
 ## ⚙️ Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git" /> </p>
 
