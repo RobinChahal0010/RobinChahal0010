@@ -5,12 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Profile%20views&color=0A66C2&style=flat" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Decision+Engines+%3E+CRUD;OOP+%7C+DSA+%7C+System+Design;Building+real-world+logic+systems" />
 </p>
-
-<br/>
 
 <h2>👾 About Me</h2>
 
@@ -26,49 +23,33 @@ FILE: system.log
 
 <h2>⚙️ Tech Stack</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git" />
 </p>
 
 <h2>🚀 Projects</h2>
 
-<!-- Project Cards with Hover (inline styles for GitHub compatibility) -->
-<div align="center" style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinChahal0010&repo=RetroTalkies&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinChahal0010&repo=AgriSense-AI&theme=tokyonight" />
+</p>
 
-  <div style="width:300px;padding:16px;border-radius:14px;background:linear-gradient(145deg,#0b1220,#0f1b33);border:1px solid #0A66C2;box-shadow:0 6px 20px rgba(10,102,194,0.25);transition:transform .25s ease, box-shadow .25s ease;"
-       onmouseover="this.style.transform='translateY(-6px) scale(1.02)';this.style.boxShadow='0 12px 28px rgba(10,102,194,0.45)';"
-       onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 20px rgba(10,102,194,0.25)';">
-    <h3 style="margin:0 0 8px 0;color:#4FC3F7;">Smart Loan Approval Engine</h3>
-    <p style="margin:0;color:#cbd5e1;font-size:14px;">
-      Rule-based decision backend<br/>
-      Factors: income • credit • risk<br/>
-      Clean OOP architecture
-    </p>
-  </div>
+<pre>
+[Smart Loan Approval Engine]
+> Rule-based decision backend
+> Factors: income • credit • risk
+> Clean OOP architecture
 
-  <div style="width:300px;padding:16px;border-radius:14px;background:linear-gradient(145deg,#0b1220,#0f1b33);border:1px solid #0A66C2;box-shadow:0 6px 20px rgba(10,102,194,0.25);transition:transform .25s ease, box-shadow .25s ease;"
-       onmouseover="this.style.transform='translateY(-6px) scale(1.02)';this.style.boxShadow='0 12px 28px rgba(10,102,194,0.45)';"
-       onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 20px rgba(10,102,194,0.25)';">
-    <h3 style="margin:0 0 8px 0;color:#4FC3F7;">JSync Subscription Engine</h3>
-    <p style="margin:0;color:#cbd5e1;font-size:14px;">
-      SaaS billing system (Netflix-style)<br/>
-      Auto-renew • flexible billing • discounts<br/>
-      State-based design (active/inactive)
-    </p>
-  </div>
+[JSync Subscription Engine]
+> SaaS billing system (Netflix-style)
+> Auto-renew • flexible billing • discounts
+> State-based design (active/inactive)
 
-  <div style="width:300px;padding:16px;border-radius:14px;background:linear-gradient(145deg,#0b1220,#0f1b33);border:1px solid #0A66C2;box-shadow:0 6px 20px rgba(10,102,194,0.25);transition:transform .25s ease, box-shadow .25s ease;"
-       onmouseover="this.style.transform='translateY(-6px) scale(1.02)';this.style.boxShadow='0 12px 28px rgba(10,102,194,0.45)';"
-       onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 20px rgba(10,102,194,0.25)';">
-    <h3 style="margin:0 0 8px 0;color:#4FC3F7;">Ride Fare Engine (Upcoming)</h3>
-    <p style="margin:0;color:#cbd5e1;font-size:14px;">
-      Uber-style surge pricing<br/>
-      Demand vs supply logic<br/>
-      Time & location-based fares
-    </p>
-  </div>
-
-</div>
+[Ride Fare Engine (Upcoming)]
+> Uber-style surge pricing
+> Demand vs supply logic
+> Time & location-based fares
+</pre>
 
 <h2>🧠 AI Systems</h2>
 
