@@ -45,6 +45,11 @@
 ---
 
 ## 🧠 Machine Learning & Web Apps
+### 🎬 RetroTalkies – AI Powered Cinema Booking System 🔥
+* Full-stack movie booking platform with dynamic pricing using Machine Learning
+* Factors: demand, timing, occupancy, popularity
+* Includes authentication, dashboard, PDF tickets
+* 👉 https://github.com/RobinChahal0010/RetroTalkies
 
 ### 🩺 Health Predictor with SHAP
 
