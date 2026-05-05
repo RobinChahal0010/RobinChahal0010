@@ -1,79 +1,103 @@
 <h1 align="center">Hi 👋, I'm Robinpreet Singh Chahal</h1>
-<h3 align="center">🚀 Java Backend Developer | Problem Solver | CSE (AI) Student</h3>
+<h3 align="center">🚀 Backend-Focused Software Engineer | Java • DSA • System Design</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+Progress;Building+Decision+Engines+%3E+CRUD;Java+%7C+DSA+%7C+System+Design;AI+%2B+Backend+Integration" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Profile%20views&color=0A66C2&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Decision+Engines+%3E+CRUD;OOP+%7C+DSA+%7C+System+Design;Building+real-world+logic+systems" />
-</p>
+<br/>
 
-<h2>👾 About Me</h2>
+<h2>👨‍💻 Profile Summary</h2>
 
 <pre>
-FILE: system.log
-> Name     : Robinpreet Singh Chahal
-> Role     : Java Backend Developer
-> Focus    : Decision Engines • System Design • APIs
-> Status   : [BUILDING] smarter systems daily 🚀
-> Strength : OOP • DSA • Backend Logic
-> Motto    : "Building systems that think before they act"
+Backend-focused developer specializing in Java-based system design.
+Strong in Data Structures, OOP, and building real-world decision systems.
+
+✔ Focus: Backend Architecture • APIs • Logic Systems
+✔ Approach: Problem-solving > Framework dependency
+✔ Goal: SDE roles (Backend / Systems)
 </pre>
 
-<h2>⚙️ Tech Stack</h2>
+<h2>⚙️ Core Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql" />
 </p>
 
-<h2>🚀 Projects</h2>
+<pre>
+Languages     : Java (Primary), Python, C++, SQL
+Core CS       : Data Structures & Algorithms, OOP, Problem Solving
+Backend       : System Design, REST APIs, Decision Engines
+Database      : MySQL
+</pre>
+
+<h2>🧰 Additional Skills</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinChahal0010&repo=RetroTalkies&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobinChahal0010&repo=AgriSense-AI&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,git" />
 </p>
+
+<pre>
+Frontend      : HTML, CSS, JavaScript
+Backend Tools : Flask
+Version Ctrl  : Git
+</pre>
+
+<h2>🚀 Key Projects</h2>
 
 <pre>
 [Smart Loan Approval Engine]
-> Rule-based decision backend
-> Factors: income • credit • risk
-> Clean OOP architecture
+> Designed rule-based backend decision system
+> Evaluates: income, credit score, financial risk
+> Focus: real-world financial logic + clean OOP design
 
 [JSync Subscription Engine]
-> SaaS billing system (Netflix-style)
-> Auto-renew • flexible billing • discounts
-> State-based design (active/inactive)
+> Built SaaS-style billing system (Netflix-inspired)
+> Features: auto-renewal, flexible billing cycles, discounts
+> Demonstrates state-based system design
 
-[Ride Fare Engine (Upcoming)]
-> Uber-style surge pricing
-> Demand vs supply logic
-> Time & location-based fares
+[Ride Fare & Surge Engine (Upcoming)]
+> Designing Uber-style pricing system
+> Demand-supply surge logic + time/location factors
+> Focus: scalable pricing algorithms
 </pre>
 
-<h2>🧠 AI Systems</h2>
+<h2>🧠 AI + ML Work</h2>
 
 <pre>
 [RetroTalkies]
-> AI cinema booking + dynamic pricing
-> ML demand prediction → real-time pricing
+> AI-powered cinema booking system
+> ML-based dynamic pricing (real-time demand prediction)
 
 [AgriSense AI]
-> Crop recommendation + price forecasting
-> Prophet-based time series
+> Crop recommendation + price forecasting system
+> Uses time-series forecasting (Prophet)
 
-[Other Models]
-> Health Predictor (SHAP)
-> Salary Prediction
-> Diabetes Detection
+[Other Work]
+> Health Predictor (Explainable AI - SHAP)
+> Salary Prediction Model
+> Diabetes Detection Model
 </pre>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobinChahal0010&theme=tokyonight" />
 </p>
+
+<h2>🎯 Current Focus</h2>
+
+<pre>
+> Mastering DSA (Java)
+> Backend-heavy system development
+> Writing scalable, production-grade logic
+> Preparing for Software Development Engineer roles
+</pre>
 
 <h2>🤝 Connect</h2>
 
