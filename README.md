@@ -1,130 +1,153 @@
-<h1 align="center">Robinpreet Singh Chahal</h1>
-<h3 align="center">Backend Engineer (Java) • System Design Enthusiast</h3>
+# Hey, I'm Robin 👾
 
-<p align="center">
-Building scalable backend systems with strong focus on logic, performance, and real-world problem solving.
-</p>
+<img align="right" alt="pixel vibe" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=15\&pause=1000\&color=00C896\&width=500\&lines=Java+Backend+Engineer+%7C+System+Builder;I+design+systems+that+make+decisions;Logic+%3E+Frameworks;Building+real-world+backend+engines+⚙️;Calm+Mind+%7C+Sharp+Logic)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
+> Building backend systems that behave like real-world machines —
+> predictable, scalable, and logic-driven.
+> From decision engines to distributed thinking. ⚙️
 
-* 🎓 CSE (AI) Student
-* 💻 Backend-focused developer (Java)
-* 🧠 Strong in Data Structures, OOP, and problem solving
-* ⚙️ Interested in System Design & scalable architectures
-* 🎯 Targeting Backend / SDE roles
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 about_me.txt
 
-**Languages:**
-Java (Primary), Python, C++, SQL
-
-**Core Concepts:**
-Data Structures & Algorithms, Object-Oriented Design, Problem Solving
-
-**Backend & Systems:**
-REST APIs, System Design, Decision Engines
-
-**Database:**
-MySQL
-
-**Tools:**
-Git, GitHub
-
----
-
-## 🚀 Featured Projects
-
-### 1. Smart Loan Approval Engine
-
-**Problem:** Automate financial approval decisions based on multiple risk factors
-
-**Solution:**
-Designed a rule-based decision engine evaluating:
-
-* Income
-* Credit score
-* Risk thresholds
-
-**Key Highlights:**
-
-* Clean OOP design
-* Extensible rule system
-* Real-world financial logic modeling
+```
+┌──────────────────────────────────────────────────────────────┐
+│  FILE: robin.sys                              STATUS: ACTIVE │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > Name     : Robinpreet Singh Chahal                        │
+│  > Role     : Backend Engineer | System Builder              │
+│  > Status   : [ONLINE] building real systems 🚀              │
+│  > Focus    : System Design • Backend • Decision Engines     │
+│  > Stack    : Java first, everything else supports           │
+│  > Mantra   : "Logic > Frameworks"                           │
+│                                                              │
+│  > I don’t build CRUD apps.                                  │
+│    I build systems that think before they act.               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 2. JSync Subscription Engine
+## ⚙️ tech_stack
 
-**Problem:** Manage subscription lifecycle like real SaaS platforms
+**Languages**
 
-**Solution:**
-Built a state-driven system handling:
+![Java](https://img.shields.io/badge/Java-00C896?style=for-the-badge\&logo=openjdk\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00C896?style=for-the-badge\&logo=python\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00C896?style=for-the-badge\&logo=cplusplus\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00C896?style=for-the-badge\&logo=mysql\&logoColor=black)
 
-* Subscription activation
-* Renewals
-* Upgrades & billing cycles
+**Backend & Systems**
 
-**Key Highlights:**
+![System Design](https://img.shields.io/badge/System%20Design-00C896?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-00C896?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-00C896?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-00C896?style=for-the-badge)
 
-* State machine design
-* Lifecycle management
-* Real SaaS behavior simulation
+**Database & Tools**
 
----
-
-### 3. Ride Fare & Surge Pricing Engine *(In Progress)*
-
-**Problem:** Dynamic pricing based on demand and supply
-
-**Solution Approach:**
-
-* Time-based and location-based surge logic
-* Scalable pricing strategy
-
-**Focus Areas:**
-
-* Optimization
-* Real-time decision making
-* System scalability
+![MySQL](https://img.shields.io/badge/MySQL-00C896?style=for-the-badge\&logo=mysql\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00C896?style=for-the-badge\&logo=git\&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00C896?style=for-the-badge\&logo=github\&logoColor=black)
 
 ---
 
-## 🧠 AI / ML Projects
+## 🚀 systems_built
 
-* **RetroTalkies** – AI-based cinema pricing
-* **AgriSense AI** – Crop recommendation + price forecasting
-* Health, Salary & Diabetes prediction systems
+### 💳 Loan Approval Engine
 
----
+```
+→ Rule-based decision system
+→ Inputs: income, credit score, risk
+→ Output: approve / reject / review
+```
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-* Mastering DSA (Java)
-* Backend-heavy system design
-* Building production-grade systems
-* Preparing for SDE roles
+✔ Clean OOP
+✔ Real-world financial logic
+✔ Extensible rules
 
 ---
 
-## 📬 Contact
+### 📺 Subscription Engine
+
+```
+→ State-driven system
+→ Handles lifecycle, billing, upgrades
+```
+
+✔ State machine design
+✔ SaaS logic
+✔ Lifecycle modeling
+
+---
+
+### 🚖 Surge Pricing Engine (WIP)
+
+```
+→ Dynamic pricing
+→ Demand vs supply logic
+→ Time + location factors
+```
+
+✔ Optimization focus
+✔ Scalable pricing model
+
+---
+
+## 🧠 ai_systems
+
+* 🎬 RetroTalkies → AI pricing engine
+* 🌾 AgriSense → crop + market prediction
+* 📊 Health ML systems
+
+---
+
+## 📊 github_stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img src="https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinChahal0010&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 current_focus
+
+```
+→ Advanced DSA (Java)
+→ Backend system design
+→ Production-level architecture
+→ SDE preparation
+```
+
+---
+
+## 📡 connect
 
 * LinkedIn: https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/
 * Email: [mantar.1911@gmail.com](mailto:mantar.1911@gmail.com)
 
 ---
 
-## 💡 Philosophy
+<div align="center">
 
-> I build systems that prioritize correctness, scalability, and real-world behavior — not just CRUD applications.
+![](https://komarev.com/ghpvc/?username=RobinChahal0010\&color=00C896\&style=flat-square)
+
+```
+╔══════════════════════════════════════════════╗
+║  build systems. not just projects. ⚙️        ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
