@@ -1,121 +1,122 @@
 <p align="center">
   <img src="./assets/banner.jpg" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Robinpreet Singh Chahal</h1>
+
+<h1 align="center">🌴 Robinpreet Singh Chahal</h1>
 
 <h3 align="center">
-☕🌴 <i>while(alive) { code + coffee; }</i>
+💿 <i>while(alive) { earn(); code(); repeat(); }</i>
 </h3>
 
 <p align="center">
-<b>Code & Coffee Under the Palm</b><br/>
-<i>Calm mind. Sharp logic.</i>
+<b>Vice City Backend Architect</b><br/>
+<i>Neon Nights. Clean Logic. Ruthless Systems.</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Engineer+(Java);System+Design+Thinker;Building+Real-World+Logic+Systems;Calm+Mind+%7C+Sharp+Logic+🌴" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF2E88&center=true&vCenter=true&width=600&lines=Java+Backend+Engineer;System+Design+Builder;Real-World+Logic+Systems;No+CRUD+Only+Power+Moves;Think+Like+A+System+🌴" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Street%20Reputation&color=ff2e88&style=flat" />
 </p>
 
 ---
 
-<h2>🌴 About Me</h2>
+<h2>🌆 About Me</h2>
 
 <p>
-I build backend systems the way real-world systems think — not just CRUD apps.
-Focused on <b>Java, DSA, and System Design</b>, I enjoy solving problems where logic, performance, and scalability matter.
+Not here to build toy apps.<br/>
+I build <b>systems that behave like real-world machines</b> — calculated, efficient, and scalable.
 </p>
 
 <ul>
-  <li>🎯 Goal: SDE (Backend / Systems)</li>
-  <li>🧠 Philosophy: <b>Logic > Frameworks</b></li>
-  <li>☕ Style: Calm, focused, consistent execution</li>
-  <li>🌴 Identity: Code & Coffee Under the Palm</li>
+  <li>🎯 Target: <b>SDE (Backend / Systems)</b></li>
+  <li>🧠 Rule: <b>Logic &gt; Framework Hype</b></li>
+  <li>☕ Fuel: Coffee + Focus</li>
+  <li>🌴 Identity: Vice City Mindset</li>
 </ul>
 
 ---
 
-<h2>⚙️ Core Skills</h2>
+<h2>🕶️ Core Arsenal</h2>
 
 <pre>
-Languages     : Java (Primary), Python, C++, SQL  
-Core CS       : Data Structures & Algorithms, OOP, Problem Solving  
-Backend       : System Design, REST APIs, Decision Engines  
+Languages     : Java (Main Weapon), Python, C++, SQL  
+Core CS       : DSA, OOP, Problem Solving  
+Backend       : System Design, APIs, Decision Engines  
 Database      : MySQL  
 </pre>
 
 ---
 
-<h2>🧰 Additional Tools</h2>
+<h2>🔧 Side Gear</h2>
 
 <pre>
 Frontend      : HTML, CSS, JavaScript  
-Backend Tools : Flask  
+Backend Tools : Flask (Legacy Ops)  
 Version Ctrl  : Git & GitHub  
 </pre>
 
 ---
 
-<h2>🚀 Backend Systems I Built</h2>
+<h2>🚗 Systems I Built (Street Proven)</h2>
 
-<h3>💳 Smart Loan Approval Engine</h3>
+<h3>💳 Loan Approval Engine</h3>
 <ul>
-  <li>Designed a <b>rule-based decision engine</b> for financial approvals</li>
-  <li>Evaluates income, credit score, and risk factors</li>
-  <li>Focused on <b>clean OOP + real-world financial logic</b></li>
+  <li>Rule-based decision system (no guesswork)</li>
+  <li>Evaluates income, credit score, risk</li>
+  <li>Built with <b>clean OOP + financial logic</b></li>
 </ul>
 
 <h3>📺 JSync Subscription Engine</h3>
 <ul>
-  <li>Built a <b>state-driven billing system</b> (Netflix-style)</li>
-  <li>Handles renewals, upgrades, and flexible billing cycles</li>
-  <li>Implements <b>real SaaS logic</b> with lifecycle management</li>
+  <li>Netflix-style billing system</li>
+  <li>Handles renewals, upgrades, lifecycle</li>
+  <li>Focused on <b>real SaaS behavior</b></li>
 </ul>
 
-<h3>🚖 Ride Fare & Surge Engine (In Progress)</h3>
+<h3>🚖 Ride Fare & Surge Engine (Under Construction)</h3>
 <ul>
-  <li>Designing <b>dynamic pricing system</b> based on demand-supply</li>
-  <li>Time + location-based surge calculation</li>
-  <li>Focus on <b>scalable pricing logic & optimization</b></li>
+  <li>Dynamic pricing engine</li>
+  <li>Demand vs supply logic</li>
+  <li>Scalable pricing architecture</li>
 </ul>
 
 ---
 
-<h2>🧠 AI + ML Systems</h2>
+<h2>🧠 AI Operations</h2>
 
 <ul>
-  <li>🎬 <b>RetroTalkies</b> → AI-based cinema pricing system</li>
-  <li>🌾 <b>AgriSense AI</b> → Crop recommendation + price forecasting</li>
-  <li>📊 Health, Salary & Diabetes Prediction Systems</li>
+  <li>🎬 <b>RetroTalkies</b> → AI cinema pricing engine</li>
+  <li>🌾 <b>AgriSense AI</b> → crop + price prediction</li>
+  <li>📊 Health, Salary & Diabetes ML Systems</li>
 </ul>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Stats (City Reputation)</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobinChahal0010&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobinChahal0010&theme=radical" />
 </p>
 
 ---
 
-<h2>🎯 Current Focus</h2>
+<h2>🎯 Current Missions</h2>
 
 <ul>
   <li>📚 Mastering DSA (Java)</li>
-  <li>⚙️ Backend-heavy system design</li>
-  <li>🚀 Building production-grade systems</li>
-  <li>💼 Preparing for SDE roles</li>
+  <li>⚙️ Backend System Design</li>
+  <li>🚀 Production-level architecture</li>
+  <li>💼 SDE Role Target Locked</li>
 </ul>
 
 ---
 
-<h2>🤝 Connect With Me</h2>
+<h2>📡 Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/">LinkedIn</a> •
@@ -125,6 +126,6 @@ Version Ctrl  : Git & GitHub
 ---
 
 <p align="center">
-🌴 <b>"I build systems that think before they act."</b><br/>
-☕ <i>Code. Coffee. Calm.</i>
+🌴 <b>"In a world of CRUD apps, I build systems that decide."</b><br/>
+💿 <i>Code Hard. Stay Calm. Rule the Backend.</i>
 </p>
