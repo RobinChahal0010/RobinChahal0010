@@ -2,74 +2,92 @@
   <img src="./assets/vibe.png" width="100%" />
 </p>
 
-<h1 align="center">Robin</h1>
+<h2 align="center">Robin</h2>
 
 <p align="center">
-☕ Coffee & Code Under the Palm 🌴
-</p>
-
-<p align="center">
-<i>Focus • Build • Repeat</i>
+☕ Coffee & Code Under the Palm 🌴  
 </p>
 
 ---
 
-```txt
-status      : online
-mode        : building
-location    : somewhere between logic & systems
+### ⌁ runtime.identity
 
-I don't build apps.
-
-I build systems that think,
-decide,
-and scale.
+```rust
+fn robin() {
+    let role = "Backend Engineer";
+    let mindset = "Systems > Features";
+    let fuel = "Coffee ☕";
+    
+    while(alive) {
+        build_systems();
+        think_deep();
+        stay_calm();
+    }
+}
 ```
 
 ---
 
-## ⚙️ what_i_do
+### ⌁ system.philosophy
 
-```txt
-→ backend engineering (java)
-→ system design
-→ decision-based systems
-→ real-world logic modeling
+```ini
+[core]
+logic = true
+clean_design = true
+scalability = priority
+
+[avoid]
+overengineering = false
+framework_dependency = minimal
 ```
 
 ---
 
-## 🚗 systems
+### ⌁ deployed.systems
 
-```txt
-loan-engine
-  ↳ evaluates risk, income, credit
-  ↳ outputs real financial decisions
+```yaml
+loan_engine:
+  type: decision_system
+  inputs: [income, credit_score, risk]
+  output: [approve, reject, review]
 
-subscription-system
-  ↳ state-driven lifecycle
-  ↳ billing, upgrades, renewals
+subscription_engine:
+  type: state_machine
+  handles: [billing, lifecycle, upgrades]
 
-surge-engine (wip)
-  ↳ demand vs supply
-  ↳ dynamic pricing logic
+surge_engine:
+  type: dynamic_pricing
+  factors: [demand, supply, time, location]
+  status: building
 ```
 
 ---
 
-## 🧠 thinking
+### ⌁ stack.trace
 
-```txt
-logic > frameworks
+```diff
++ Java (primary)
++ System Design
++ DSA / OOP
++ REST APIs
++ MySQL
 
-clean design > quick hacks
-
-systems > CRUD
+- CRUD-only thinking
 ```
 
 ---
 
-## 📊 presence
+### ⌁ current.execution
+
+```bash
+> mastering DSA
+> designing scalable systems
+> preparing for SDE roles
+```
+
+---
+
+### ⌁ signal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=transparent&hide_border=true" />
@@ -77,15 +95,15 @@ systems > CRUD
 
 ---
 
-## 📡 connect
+### ⌁ connect
 
-```txt
-linkedin : robinpreet-singh-chahal
-email    : mantar.1911@gmail.com
+```bash
+linkedin  → robinpreet-singh-chahal
+email     → mantar.1911@gmail.com
 ```
 
 ---
 
 <p align="center">
-☕🌴
+☕ stay calm • build systems 🌴
 </p>
