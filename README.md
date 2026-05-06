@@ -1,82 +1,130 @@
-<div align="center">
+<h1 align="center">Robinpreet Singh Chahal</h1>
+<h3 align="center">Backend Engineer (Java) • System Design Enthusiast</h3>
 
-<!-- 🏙️ ANIMATED NEON HEADER -->
-<img src="https://vercel.app" width="100%"/>
-
-<br/>
-
-<!-- 🌴 ANIMATED LOGO -->
-<svg width="150" height="150" viewBox="0 0 120 120">
-  <defs>
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff2e88;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00ffe1;stop-opacity:1" />
-    </linearGradient>
-    <style>
-      @keyframes pulse {
-        0% { filter: drop-shadow(0 0 2px #ff2e88); }
-        50% { filter: drop-shadow(0 0 10px #00ffe1); }
-        100% { filter: drop-shadow(0 0 2px #ff2e88); }
-      }
-      .neon-circle { animation: pulse 2s infinite ease-in-out; }
-    </style>
-  </defs>
-  <circle class="neon-circle" cx="60" cy="60" r="50" fill="none" stroke="url(#neonGrad)" stroke-width="4" stroke-dasharray="8,4"/>
-  <text x="50%" y="55%" text-anchor="middle" fill="#00ffe1" font-size="30" font-weight="bold" font-family="monospace">RC</text>
-</svg>
-
-<h3 align="center">💿 Backend Systems Architect • <span style="color: #ff2e88;">Vice City Mode</span></h3>
-
-<!-- 🚗 THE ICONIC DRIVE (GIF) -->
 <p align="center">
-<img src="https://giphy.com" width="100%"/>
-</p>
-
-<!-- 📟 TYPING ANIMATION -->
-<p align="center">
-<img src="https://herokuapp.com+🌴"/>
+Building scalable backend systems with strong focus on logic, performance, and real-world problem solving.
 </p>
 
 ---
 
-<div align="left">
-<h2>🌆 THE HUSTLE</h2>
+## 👨‍💻 About Me
 
-I don't follow trends—I build **systems that decide**.  
-Scalable. Logic-driven. High-performance.
-
-*   🎯 **Target:** SDE Backend
-*   🧠 **Philosophy:** Logic > Frameworks
-*   ☕ **Fuel:** Coffee Powered Development
-</div>
+* 🎓 CSE (AI) Student
+* 💻 Backend-focused developer (Java)
+* 🧠 Strong in Data Structures, OOP, and problem solving
+* ⚙️ Interested in System Design & scalable architectures
+* 🎯 Targeting Backend / SDE roles
 
 ---
 
-<h2>🕶️ LIVE STATS</h2>
-<p align="center">
-<img src="https://vercel.app" height="170"/>
-<img src="https://vercel.app" height="170"/>
-</p>
+## 🛠️ Tech Stack
+
+**Languages:**
+Java (Primary), Python, C++, SQL
+
+**Core Concepts:**
+Data Structures & Algorithms, Object-Oriented Design, Problem Solving
+
+**Backend & Systems:**
+REST APIs, System Design, Decision Engines
+
+**Database:**
+MySQL
+
+**Tools:**
+Git, GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Smart Loan Approval Engine
+
+**Problem:** Automate financial approval decisions based on multiple risk factors
+
+**Solution:**
+Designed a rule-based decision engine evaluating:
+
+* Income
+* Credit score
+* Risk thresholds
+
+**Key Highlights:**
+
+* Clean OOP design
+* Extensible rule system
+* Real-world financial logic modeling
+
+---
+
+### 2. JSync Subscription Engine
+
+**Problem:** Manage subscription lifecycle like real SaaS platforms
+
+**Solution:**
+Built a state-driven system handling:
+
+* Subscription activation
+* Renewals
+* Upgrades & billing cycles
+
+**Key Highlights:**
+
+* State machine design
+* Lifecycle management
+* Real SaaS behavior simulation
+
+---
+
+### 3. Ride Fare & Surge Pricing Engine *(In Progress)*
+
+**Problem:** Dynamic pricing based on demand and supply
+
+**Solution Approach:**
+
+* Time-based and location-based surge logic
+* Scalable pricing strategy
+
+**Focus Areas:**
+
+* Optimization
+* Real-time decision making
+* System scalability
+
+---
+
+## 🧠 AI / ML Projects
+
+* **RetroTalkies** – AI-based cinema pricing
+* **AgriSense AI** – Crop recommendation + price forecasting
+* Health, Salary & Diabetes prediction systems
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://demolab.com" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true" />
 </p>
 
 ---
 
-<h2>📡 CONNECT WITH THE EMPIRE</h2>
-<p align="center">
-<a href="https://linkedin.com"><img src="https://shields.io"/></a>
-<a href="mailto:mantar.1911@gmail.com"><img src="https://shields.io"/></a>
-</p>
+## 🎯 Current Focus
+
+* Mastering DSA (Java)
+* Backend-heavy system design
+* Building production-grade systems
+* Preparing for SDE roles
 
 ---
 
-<p align="center">
-<img src="https://giphy.com" width="100%"/>
-<br>
-🌴 <b>"I don’t follow trends. I build systems."</b><br/>
-💿 Code. Control. Conquer.
-</p>
+## 📬 Contact
 
-</div>
+* LinkedIn: https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/
+* Email: [mantar.1911@gmail.com](mailto:mantar.1911@gmail.com)
+
+---
+
+## 💡 Philosophy
+
+> I build systems that prioritize correctness, scalability, and real-world behavior — not just CRUD applications.
