@@ -1,134 +1,91 @@
-# Hey, I'm Robin 🌴
+<p align="center">
+  <img src="./assets/vibe.png" width="100%" />
+</p>
 
-<img align="right" width="320" src="./assets/vibe.png" />
-
-> ☕ **Coffee & Code Under the Palm**
-> Calm mind. Sharp logic. Real systems.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=15\&pause=1000\&color=FF2E88\&width=500\&lines=Backend+Engineer+\(Java\);System+Design+Builder;Focus+•+Build+•+Repeat;No+CRUD+Only+Real+Systems;Think+Like+A+System+⚙️)](https://git.io/typing-svg)
-
-<br clear="right"/>
-
----
-
-## 🧠 mindset.sys
-
-```bash
-> status      : Coffee & Code Under the Palm ☕🌴
-> mode        : FOCUS → BUILD → REPEAT
-> philosophy  : Logic > Frameworks
-> identity    : System Builder (not just coder)
-
-> I don’t chase trends.
-> I build systems that make decisions.
-```
-
----
-
-## ⚙️ tech_stack
-
-**Core**
-
-```bash
-Java        ██████████████
-DSA         █████████████
-System Design ███████████
-OOP         ███████████
-```
-
-**Tools**
-
-```bash
-MySQL   •   Git   •   REST APIs
-```
-
----
-
-## 🚗 systems.exe
-
-### 💳 Loan Approval Engine
-
-```bash
-→ Input  : income, credit score, risk
-→ Output : approve / reject / review
-→ Logic  : rule-based decision system
-```
-
-✔ Real-world financial thinking
-✔ Clean OOP design
-✔ Extensible architecture
-
----
-
-### 📺 Subscription Engine
-
-```bash
-→ State Machine Based System
-→ Handles lifecycle, billing, upgrades
-```
-
-✔ SaaS behavior simulation
-✔ Lifecycle control
-✔ System thinking
-
----
-
-### 🚖 Surge Pricing Engine (WIP)
-
-```bash
-→ Demand vs Supply
-→ Time + Location based surge
-```
-
-✔ Optimization mindset
-✔ Scalable pricing logic
-
----
-
-## 🧠 ai_modules
-
-* 🎬 RetroTalkies → AI pricing system
-* 🌾 AgriSense → crop + price prediction
-* 📊 ML prediction systems
-
----
-
-## 📊 stats.log
+<h1 align="center">Robin</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true"/>
+☕ Coffee & Code Under the Palm 🌴
+</p>
+
+<p align="center">
+<i>Focus • Build • Repeat</i>
 </p>
 
 ---
 
-## 🎯 current_mission
+```txt
+status      : online
+mode        : building
+location    : somewhere between logic & systems
 
-```bash
-→ Mastering DSA (Java)
-→ Backend System Design
-→ Production-grade thinking
-→ SDE roles target locked 🎯
+I don't build apps.
+
+I build systems that think,
+decide,
+and scale.
 ```
 
 ---
 
-## 📡 connect()
+## ⚙️ what_i_do
 
-```bash
-LinkedIn : robinpreet-singh-chahal
-Email    : mantar.1911@gmail.com
+```txt
+→ backend engineering (java)
+→ system design
+→ decision-based systems
+→ real-world logic modeling
 ```
 
 ---
 
-<div align="center">
+## 🚗 systems
 
+```txt
+loan-engine
+  ↳ evaluates risk, income, credit
+  ↳ outputs real financial decisions
+
+subscription-system
+  ↳ state-driven lifecycle
+  ↳ billing, upgrades, renewals
+
+surge-engine (wip)
+  ↳ demand vs supply
+  ↳ dynamic pricing logic
 ```
-FOCUS • BUILD • REPEAT
+
+---
+
+## 🧠 thinking
+
+```txt
+logic > frameworks
+
+clean design > quick hacks
+
+systems > CRUD
 ```
 
-☕ Code. Calm. Control.
+---
 
-</div>
+## 📊 presence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📡 connect
+
+```txt
+linkedin : robinpreet-singh-chahal
+email    : mantar.1911@gmail.com
+```
+
+---
+
+<p align="center">
+☕🌴
+</p>
