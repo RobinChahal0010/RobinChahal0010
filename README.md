@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="./assets/vibe.png" width="100%" />
-</p>
 
-<h2 align="center">Robin</h2>
+
+<h2 align="center">яσвιη</h2>
 
 <p align="center">
-☕ Coffee & Code Under the Palm 🌴  
+ Coffee & Code Under the Palm   
 </p>
 
 ---
@@ -105,5 +103,5 @@ email     → mantar.1911@gmail.com
 ---
 
 <p align="center">
-☕ stay calm • build systems 🌴
+ stay calm • build systems 
 </p>
