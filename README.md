@@ -115,8 +115,8 @@ Version Ctrl  : Git & GitHub
 <h2>🤝 Connect With Me</h2>
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/)">LinkedIn</a> •
+  <a href="mailto:mantar.1911@gmail.com">Email</a>
 </p>
 
 ---
