@@ -1,105 +1,111 @@
-<h2 align="center" style="color:#00C896;">яσвιη</h2>
+# Hey, I'm Robin 👾
 
-<p align="center" style="color:#888;">
-☕ Coffee & Code Under the Palm 🌴
-</p>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=15\&pause=1000\&color=00C896\&width=550\&lines=Java+Backend+Engineer+%7C+System+Builder;Coffee+%26+Code+Under+the+Palm+🌴;I+design+systems+that+make+decisions;Logic+%3E+Frameworks;Building+real-world+backend+engines)](https://git.io/typing-svg)
+
+> ☕ **Coffee & Code Under the Palm** 🌴
+> Building backend systems that behave like real-world machines.
+
+<br clear="right"/>
 
 ---
 
-### ⌁ runtime.identity
+## 📂 about_me.txt
 
-```rust
-fn robin() {
-    let role = "\x1b[32mBackend Engineer\x1b[0m";
-    let mindset = "\x1b[36mSystems > Features\x1b[0m";
-    let fuel = "\x1b[33mCoffee ☕\x1b[0m";
-    
-    while(alive) {
-        build_systems();
-        think_deep();
-        stay_calm();
-    }
-}
+```
+┌──────────────────────────────────────────────────────────────┐
+│  FILE: robin.sys                              STATUS: ACTIVE │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > Name     : Robinpreet Singh Chahal                        │
+│  > Role     : Backend Engineer | System Builder              │
+│  > Status   : Coffee & Code Under the Palm ☕🌴               │
+│  > Focus    : System Design • Backend • Decision Engines     │
+│  > Stack    : Java first, everything else supports           │
+│  > Mantra   : "Logic > Frameworks"                           │
+│                                                              │
+│  > I build systems that think before they act.               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### ⌁ system.philosophy
+## ⚙️ tech_stack
 
-```ini
-[core]
-logic = true
-clean_design = true
-scalability = "priority ⚡"
+![Java](https://img.shields.io/badge/Java-00C896?style=for-the-badge\&logo=openjdk\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00C896?style=for-the-badge\&logo=mysql\&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-00C896?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-00C896?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-00C896?style=for-the-badge\&logo=git\&logoColor=black)
 
-[avoid]
-overengineering = false
-framework_dependency = "minimal"
+---
+
+## 🚀 systems_built
+
+### 💳 Loan Approval Engine
+
+→ Rule-based decision system
+→ Inputs: income, credit score, risk
+
+### 📺 Subscription Engine
+
+→ State-driven lifecycle system
+
+### 🚖 Surge Pricing Engine (WIP)
+
+→ Dynamic demand-supply pricing
+
+---
+
+## 📊 github_stats
+
+<div align="center">
+
+<!-- ✅ PRIMARY (most reliable) -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- ✅ STREAK (fixed working endpoint) -->
+
+<img src="https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true" />
+
+<!-- ✅ LANGUAGES -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinChahal0010&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## ⚠️ IF STATS STILL NOT SHOWING
+
+```
+1. Open in browser:
+https://github-readme-stats.vercel.app/api?username=RobinChahal0010
+
+2. If it shows → GitHub cache issue → wait 1–2 min
+3. If not → repo name mismatch (check username spelling)
 ```
 
 ---
 
-### ⌁ deployed.systems
+## 📡 connect
 
-```yaml
-loan_engine:
-  type: decision_system
-  inputs: [income, credit_score, risk]
-  output: [approve, reject, review]
+* LinkedIn: https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/
+* Email: [mantar.1911@gmail.com](mailto:mantar.1911@gmail.com)
 
-subscription_engine:
-  type: state_machine
-  handles: [billing, lifecycle, upgrades]
+---
 
-surge_engine:
-  type: dynamic_pricing
-  factors: [demand, supply, time, location]
-  status: "building 🚧"
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=RobinChahal0010\&color=00C896\&style=flat-square)
+
+```
+╔══════════════════════════════════════════════╗
+║  Coffee. Code. Calm. Systems. ☕🌴            ║
+╚══════════════════════════════════════════════╝
 ```
 
----
-
-### ⌁ stack.trace
-
-```diff
-+ Java (primary)
-+ System Design
-+ DSA / OOP
-+ REST APIs
-+ MySQL
-
-- CRUD-only thinking
-```
-
----
-
-### ⌁ current.execution
-
-```bash
-> mastering DSA
-> designing scalable systems
-> preparing for SDE roles 🎯
-```
-
----
-
-### ⌁ signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### ⌁ connect
-
-```bash
-linkedin  → robinpreet-singh-chahal
-email     → mantar.1911@gmail.com
-```
-
----
-
-<p align="center" style="color:#00C896;">
-☕ stay calm • build systems 🌴
-</p>
+</div>
