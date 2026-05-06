@@ -1,23 +1,36 @@
 <h1 align="center">Hi 👋, I'm Robinpreet Singh Chahal</h1>
-<h3 align="center">🚀 Backend-Focused Software Engineer | Java • DSA • System Design</h3>
+
+<h3 align="center">
+☕🌴 <i>while(alive) { code + coffee; }</i>
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<b>Code & Coffee Under the Palm</b><br/>
+<i>Calm mind. Sharp logic.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C896&center=true&vCenter=true&width=500&lines=Backend+Engineer+(Java);System+Design+Thinker;Building+Real-World+Logic+Systems;Calm+Mind+%7C+Sharp+Logic+🌴" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+<h2>🌴 About Me</h2>
 
 <p>
-Backend-focused developer who loves building <b>real-world logic systems</b> — not just CRUD apps.
-Strong foundation in <b>Java, DSA, and Object-Oriented Design</b>, with a mindset focused on solving problems the way real systems work.
+I build backend systems the way real-world systems think — not just CRUD apps.
+Focused on <b>Java, DSA, and System Design</b>, I enjoy solving problems where logic, performance, and scalability matter.
 </p>
 
 <ul>
-  <li>🎯 Goal: Crack SDE roles (Backend / Systems)</li>
-  <li>🧠 Focus: Logic > Frameworks</li>
-  <li>⚙️ Building: Scalable backend systems</li>
+  <li>🎯 Goal: SDE (Backend / Systems)</li>
+  <li>🧠 Philosophy: <b>Logic > Frameworks</b></li>
+  <li>☕ Style: Calm, focused, consistent execution</li>
+  <li>🌴 Identity: Code & Coffee Under the Palm</li>
 </ul>
 
 ---
@@ -33,7 +46,7 @@ Database      : MySQL
 
 ---
 
-<h2>🧰 Additional Skills</h2>
+<h2>🧰 Additional Tools</h2>
 
 <pre>
 Frontend      : HTML, CSS, JavaScript  
@@ -43,50 +56,37 @@ Version Ctrl  : Git & GitHub
 
 ---
 
-<h2>🚀 Key Projects</h2>
+<h2>🚀 Backend Systems I Built</h2>
 
 <h3>💳 Smart Loan Approval Engine</h3>
 <ul>
-  <li>Rule-based backend decision system</li>
-  <li>Evaluates income, credit score, financial risk</li>
-  <li>Focus on real-world financial logic + clean OOP design</li>
+  <li>Designed a <b>rule-based decision engine</b> for financial approvals</li>
+  <li>Evaluates income, credit score, and risk factors</li>
+  <li>Focused on <b>clean OOP + real-world financial logic</b></li>
 </ul>
 
 <h3>📺 JSync Subscription Engine</h3>
 <ul>
-  <li>SaaS-style billing system (Netflix-inspired)</li>
-  <li>Auto-renewal, flexible billing cycles, discounts</li>
-  <li>State-based system design</li>
+  <li>Built a <b>state-driven billing system</b> (Netflix-style)</li>
+  <li>Handles renewals, upgrades, and flexible billing cycles</li>
+  <li>Implements <b>real SaaS logic</b> with lifecycle management</li>
 </ul>
 
-<h3>🚖 Ride Fare & Surge Engine (Upcoming)</h3>
+<h3>🚖 Ride Fare & Surge Engine (In Progress)</h3>
 <ul>
-  <li>Uber-style pricing system</li>
-  <li>Demand-supply surge logic</li>
-  <li>Time + location-based pricing algorithms</li>
+  <li>Designing <b>dynamic pricing system</b> based on demand-supply</li>
+  <li>Time + location-based surge calculation</li>
+  <li>Focus on <b>scalable pricing logic & optimization</b></li>
 </ul>
 
 ---
 
-<h2>🧠 AI + ML Work</h2>
+<h2>🧠 AI + ML Systems</h2>
 
-<h3>🎬 RetroTalkies</h3>
 <ul>
-  <li>AI-powered cinema booking system</li>
-  <li>Dynamic pricing using demand prediction</li>
-</ul>
-
-<h3>🌾 AgriSense AI</h3>
-<ul>
-  <li>Crop recommendation + price forecasting</li>
-  <li>Time-series forecasting (Prophet)</li>
-</ul>
-
-<h3>📊 Other Work</h3>
-<ul>
-  <li>Health Predictor (Explainable AI - SHAP)</li>
-  <li>Salary Prediction Model</li>
-  <li>Diabetes Detection Model</li>
+  <li>🎬 <b>RetroTalkies</b> → AI-based cinema pricing system</li>
+  <li>🌾 <b>AgriSense AI</b> → Crop recommendation + price forecasting</li>
+  <li>📊 Health, Salary & Diabetes Prediction Systems</li>
 </ul>
 
 ---
@@ -106,7 +106,7 @@ Version Ctrl  : Git & GitHub
 <ul>
   <li>📚 Mastering DSA (Java)</li>
   <li>⚙️ Backend-heavy system design</li>
-  <li>🚀 Building production-grade logic systems</li>
+  <li>🚀 Building production-grade systems</li>
   <li>💼 Preparing for SDE roles</li>
 </ul>
 
@@ -114,13 +114,14 @@ Version Ctrl  : Git & GitHub
 
 <h2>🤝 Connect With Me</h2>
 
-<p>
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/)">LinkedIn</a> •
+<p align="center">
+  <a href="https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/">LinkedIn</a> •
   <a href="mailto:mantar.1911@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-🔥 <i>"I build systems that think before they act."</i>
+🌴 <b>"I build systems that think before they act."</b><br/>
+☕ <i>Code. Coffee. Calm.</i>
 </p>
