@@ -1,9 +1,7 @@
+<h2 align="center" style="color:#00C896;">яσвιη</h2>
 
-
-<h1 align="center">яσвιη</h1>
-
-<p align="center">
- Coffee & Code Under the Palm   
+<p align="center" style="color:#888;">
+☕ Coffee & Code Under the Palm 🌴
 </p>
 
 ---
@@ -12,9 +10,9 @@
 
 ```rust
 fn robin() {
-    let role = "Backend Engineer";
-    let mindset = "Systems > Features";
-    let fuel = "Coffee ☕";
+    let role = "\x1b[32mBackend Engineer\x1b[0m";
+    let mindset = "\x1b[36mSystems > Features\x1b[0m";
+    let fuel = "\x1b[33mCoffee ☕\x1b[0m";
     
     while(alive) {
         build_systems();
@@ -32,11 +30,11 @@ fn robin() {
 [core]
 logic = true
 clean_design = true
-scalability = priority
+scalability = "priority ⚡"
 
 [avoid]
 overengineering = false
-framework_dependency = minimal
+framework_dependency = "minimal"
 ```
 
 ---
@@ -56,7 +54,7 @@ subscription_engine:
 surge_engine:
   type: dynamic_pricing
   factors: [demand, supply, time, location]
-  status: building
+  status: "building 🚧"
 ```
 
 ---
@@ -80,7 +78,7 @@ surge_engine:
 ```bash
 > mastering DSA
 > designing scalable systems
-> preparing for SDE roles
+> preparing for SDE roles 🎯
 ```
 
 ---
@@ -88,7 +86,7 @@ surge_engine:
 ### ⌁ signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -102,6 +100,6 @@ email     → mantar.1911@gmail.com
 
 ---
 
-<p align="center">
- stay calm • build systems 
+<p align="center" style="color:#00C896;">
+☕ stay calm • build systems 🌴
 </p>
