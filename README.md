@@ -44,18 +44,17 @@
 
 ## 🚀 systems_built
 
-### 💳 Loan Approval Engine
+### 💳 Smart Loan Engine
+→ Credit scoring + EMI + DTI based approval logic
 
-→ Rule-based decision system
-→ Inputs: income, credit score, risk
+### 📺 JSync Subscription Engine
+→ Auto-renewal billing lifecycle simulation
 
-### 📺 Subscription Engine
-
-→ State-driven lifecycle system
+### 🚦 RateLimit Engine
+→ Sliding-window API throttling system
 
 ### 🚖 Surge Pricing Engine (WIP)
-
-→ Dynamic demand-supply pricing
+→ Dynamic demand-supply pricing model
 
 ---
 
