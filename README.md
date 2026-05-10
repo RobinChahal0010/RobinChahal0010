@@ -20,7 +20,7 @@
 │                                                              │
 │  > Name     : Robinpreet Singh Chahal                        │
 │  > Role     : Backend Engineer | System Builder              │
-│  > Status   : Coffee & Code Under the Palm ☕🌴               │
+│  > Status   : Coffee & Code Under the Palm ☕🌴             │
 │  > Focus    : System Design • Backend • Decision Engines     │
 │  > Stack    : Java first, everything else supports           │
 │  > Mantra   : "Logic > Frameworks"                           │
@@ -104,7 +104,7 @@ https://github-readme-stats.vercel.app/api?username=RobinChahal0010
 
 ```
 ╔══════════════════════════════════════════════╗
-║  Coffee. Code. Calm. Systems. ☕🌴            ║
+║  Coffee. Code. Calm. Systems. ☕🌴          ║
 ╚══════════════════════════════════════════════╝
 ```
 
