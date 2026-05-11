@@ -64,7 +64,6 @@
 
 <!-- ✅ PRIMARY (most reliable) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!-- ✅ STREAK (fixed working endpoint) -->
 
@@ -72,7 +71,6 @@
 
 <!-- ✅ LANGUAGES -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinChahal0010&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
