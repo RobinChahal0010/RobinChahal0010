@@ -6,7 +6,7 @@
 
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              🌴 COFFEE & CODE UNDER THE PALM 🌴              ║
+║              🌴 COFFEE & CODE UNDER THE PALM 🌴             ║
 ║                                                              ║
 ║         Backend Systems • Logic • Architecture               ║
 ║                                                              ║
