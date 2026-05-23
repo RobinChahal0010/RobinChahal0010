@@ -1,108 +1,57 @@
-# Hey, I'm Robin 👾
+<div align="center">
+  <img src="https://i.imgur.com/YHnzf.png" width="280" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 255, 157, 0.3);" alt="Robinpreet Singh">
+  
+  <h1>ROBINPREET SINGH CHAHAL</h1>
+  <h3>Backend Engineer | System Builder | Java Developer</h3>
+</div>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=15\&pause=1000\&color=00C896\&width=550\&lines=Java+Backend+Engineer+%7C+System+Builder;Coffee+%26+Code+Under+the+Palm+🌴;I+design+systems+that+make+decisions;Logic+%3E+Frameworks;Building+real-world+backend+engines)](https://git.io/typing-svg)
-
-> ☕ **Coffee & Code Under the Palm** 🌴
-> Building backend systems that behave like real-world machines.
-
-<br clear="right"/>
-
----
-
-## 📂 about_me.txt
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  FILE: robin.sys                              STATUS: ACTIVE │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  > Name     : Robinpreet Singh Chahal                        │
-│  > Role     : Backend Engineer | System Builder              │
-│  > Status   : Coffee & Code Under the Palm ☕🌴             │
-│  > Focus    : System Design • Backend • Decision Engines     │
-│  > Stack    : Java first, everything else supports           │
-│  > Mantra   : "Logic > Frameworks"                           │
-│                                                              │
-│  > I build systems that think before they act.               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+**Hey there! I'm Robin** 👾
 
 ---
 
-## ⚙️ tech_stack
+### 👨🏻‍💻 About Me
 
-![Java](https://img.shields.io/badge/Java-00C896?style=for-the-badge\&logo=openjdk\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00C896?style=for-the-badge\&logo=mysql\&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-00C896?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-00C896?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-00C896?style=for-the-badge\&logo=git\&logoColor=black)
-
----
-
-## 🚀 systems_built
-
-### 💳 Smart Loan Engine
-→ Credit scoring + EMI + DTI based approval logic
-
-### 📺 JSync Subscription Engine
-→ Auto-renewal billing lifecycle simulation
-
-### 🚦 RateLimit Engine
-→ Sliding-window API throttling system
-
-### 🚖 Surge Pricing Engine (WIP)
-→ Dynamic demand-supply pricing model
+- 💡 I build **real-world backend systems** that make smart decisions.
+- 🛠 Currently focused on **System Design, Decision Engines & Scalable Java Applications**.
+- 🌱 Passionate about clean architecture, performance & logic-first development.
+- ☕ My vibe: **Coffee & Code Under the Palm** 🌴
+- 💬 Always open for interesting discussions on backend systems, architecture, or Java.
 
 ---
 
-## 📊 github_stats
+### 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Core Skills:**  
+System Design • DSA • Backend Architecture • Payment Systems • Subscription Engines
+
+---
+
+### ⚙️ GitHub Analytics
 
 <div align="center">
 
-<!-- ✅ PRIMARY (most reliable) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true)
 
-
-<!-- ✅ STREAK (fixed working endpoint) -->
-
-<img src="https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true" />
-
-<!-- ✅ LANGUAGES -->
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## ⚠️ IF STATS STILL NOT SHOWING
+### 🤝🏻 Connect With Me
 
-```
-1. Open in browser:
-https://github-readme-stats.vercel.app/api?username=RobinChahal0010
-
-2. If it shows → GitHub cache issue → wait 1–2 min
-3. If not → repo name mismatch (check username spelling)
-```
-
----
-
-## 📡 connect
-
-* LinkedIn: https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/
-* Email: [mantar.1911@gmail.com](mailto:mantar.1911@gmail.com)
+- **LinkedIn** → [Robinpreet Singh Chahal](https://www.linkedin.com/in/robinpreet-singh-chahal-353762331/)
+- **Email** → [mantar.1911@gmail.com](mailto:mantar.1911@gmail.com)
 
 ---
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=RobinChahal0010\&color=00C896\&style=flat-square)
-
-```
-╔══════════════════════════════════════════════╗
-║  Coffee. Code. Calm. Systems. ☕🌴          ║
-╚══════════════════════════════════════════════╝
-```
-
+  <b>70s Pixel Vibes • Modern Backend Systems • Zero Compromise</b> ☕🌴
 </div>
