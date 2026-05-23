@@ -39,7 +39,6 @@ System Design • DSA • Backend Architecture • Payment Systems • Subscript
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
