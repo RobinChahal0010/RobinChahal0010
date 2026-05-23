@@ -53,7 +53,14 @@
 
 ---
 
+````md
 # ⚔️ Philosophy
+
+<div align="center">
+
+<img width="700" src="https://www.instagram.com/p/C8__sZfyyAx/" />
+
+</div>
 
 ```txt
 "Maine jo wada kiya tha,
@@ -65,7 +72,9 @@ Rehman Dakait ki di hui maut
 badi kasai-numa hoti hai."
 ````
 
----
+```
+```
+
 
 # 👨🏻‍💻 About Me
 
