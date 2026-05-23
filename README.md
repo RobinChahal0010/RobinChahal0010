@@ -1,17 +1,16 @@
-````html
+``md
 <div align="center">
 
 <pre>
-
             . . . . . . . . . . . . . . . . . . . . . .
-         .                                                 .
-      .             🌴 COFFEE & CODE UNDER THE PALM 🌴        .
-    .                                                       .
-   .        Backend Systems • Logic • Architecture           .
-    .                                                       .
-      .          "Logic First. Chaos Never."              .
          .                                               .
-            . . . . . . . . . . . . . . . . . . . . .
+      .        🌴 COFFEE & CODE UNDER THE PALM 🌴         .
+    .                                                     .
+   .      Backend Systems • Logic • Architecture          .
+    .                                                     .
+      .        "Logic First. Chaos Never."               .
+         .                                             .
+            . . . . . . . . . . . . . . . . . . . .
 
 
                      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀
@@ -35,11 +34,10 @@
 
                ROBINPREET SINGH CHAHAL
 
-          ⚡ Backend Engineer • System Builder • Java Developer ⚡
-
+      ⚡ Backend Engineer • System Builder • Java Developer ⚡
 </pre>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+Systems;Designing+Decision+Engines;Coffee+%26+Code+Under+The+Palm+☕🌴;Backend+Architecture+Enjoyer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+Systems;Designing+Decision+Engines;Coffee+%26+Code+Under+The+Palm+☕🌴" />
 
 <br><br>
 
@@ -96,75 +94,18 @@ class Robin {
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,vscode" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend%20Architecture-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Decision%20Engines-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge" />
-
 </div>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-<h3>⚡ Smart Billing Engine</h3>
-
-Dynamic backend engine handling:
-
-* subscriptions
-* discount logic
-* pricing workflows
-* billing automation
-
-</td>
-
-<td width="50%">
-
-<h3>🏫 School Canteen Backend</h3>
-
-Backend handling:
-
-* student accounts
-* ordering workflows
-* admin controls
-* balance management
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3>📋 Google Forms Clone</h3>
-
-Java + MySQL system for:
-
-* dynamic forms
-* response handling
-* form management
-
-</td>
-
-<td width="50%">
-
-<h3>🎮 Dungeon Escape</h3>
-
-Retro Java CLI game with:
-
-* movement engine
-* scoring mechanics
-* map rendering
-* survival gameplay
-
-</td>
-</tr>
-</table>
+| Project                   | Description                              |
+| ------------------------- | ---------------------------------------- |
+| ⚡ Smart Billing Engine    | Subscription & pricing backend engine    |
+| 🏫 School Canteen Backend | Ordering & balance management backend    |
+| 📋 Google Forms Clone     | Dynamic forms backend using Java + MySQL |
+| 🎮 Dungeon Escape         | Retro Java CLI survival game             |
 
 ---
 
@@ -184,7 +125,7 @@ Retro Java CLI game with:
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
 <div align="center">
 
@@ -197,18 +138,6 @@ Retro Java CLI game with:
 <a href="mailto:mantar.1911@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-mantar.1911@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>
-☕ 70s Pixel Vibes • Modern Backend Systems • Zero Compromise
-</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer"/>
 
 </div>
 ```
