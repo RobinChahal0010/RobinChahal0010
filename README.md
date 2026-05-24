@@ -99,11 +99,6 @@ class Robin {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinChahal0010&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true"/>
 
