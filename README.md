@@ -3,7 +3,7 @@
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              ☕ COFFEE & CODE UNDER THE PALM 🌴              ║
+║              ☕ COFFEE & CODE UNDER THE PALM 🌴             ║
 ║                                                              ║
 ║        Backend Systems • Architecture • Concurrency          ║
 ║                                                              ║
@@ -22,8 +22,7 @@
 
 ⚡ Backend Engineer • System Builder • Java Developer ⚡
 </pre>
-<br>
-<img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Profile+Views&color=00ff9c&style=flat" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2200&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+Systems;Designing+Backend+Architectures;Concurrency+%7C+Queues+%7C+Decision+Engines;Coffee+%26+Code+Under+The+Palm+☕🌴" />
 
 <br>
