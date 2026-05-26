@@ -83,7 +83,7 @@ class Robin {
 | 🔍 **CodeInspector** | Web app that analyzes code complexity, structure & generates downloadable reports |
 | 🧮 **SmartCalculator-Java** | Scientific calculator & expression parser with nested evaluation & precedence |
 | 🌾 **AgriSense-AI** | ML-powered crop recommendation system using soil + mandi price analysis |
-| 🎵 **Spotify Clone (In Progress)** | Full-stack music streaming platform with AI recommendation features |
+
 
 ---
 
