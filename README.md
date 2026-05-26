@@ -1,22 +1,15 @@
-
-```md
 <div align="center">
 
 <pre>
-
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              🌴 COFFEE & CODE UNDER THE PALM 🌴             ║
+║              ☕ COFFEE & CODE UNDER THE PALM 🌴              ║
 ║                                                              ║
-║         Backend Systems • Logic • Architecture               ║
+║        Backend Systems • Architecture • Concurrency          ║
 ║                                                              ║
-║             "Logic First. Chaos Never."                      ║
+║              "Logic First. Chaos Never."                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ██████╗  ██████╗ ██████╗ ██╗███╗   ██╗
 ██╔══██╗██╔═══██╗██╔══██╗██║████╗  ██║
@@ -25,27 +18,20 @@
 ██║  ██║╚██████╔╝██████╔╝██║██║ ╚████║
 ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝
 
-         ROBINPREET SINGH CHAHAL
+            ROBINPREET SINGH CHAHAL
 
 ⚡ Backend Engineer • System Builder • Java Developer ⚡
-
 </pre>
 
-</div>
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2200&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+Systems;Designing+Backend+Architectures;Concurrency+%7C+Queues+%7C+Decision+Engines;Coffee+%26+Code+Under+The+Palm+☕🌴" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+Systems;Designing+Decision+Engines;Coffee+%26+Code+Under+The+Palm+☕🌴" />
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=RobinChahal0010&label=Profile+Views&color=00ff9c&style=flat" />
 
 </div>
 
 ---
-
-
-
 
 # 👨🏻‍💻 About Me
 
@@ -54,17 +40,19 @@ class Robin {
 
     String role = "Backend Engineer";
 
-    String[] interests = {
-        "Backend Architecture",
-        "Decision Engines",
-        "Subscription Systems",
-        "Payment Logic",
-        "Scalable Java Applications"
+    String[] focusAreas = {
+        "Distributed Systems",
+        "Concurrency",
+        "Rate Limiting",
+        "Billing Engines",
+        "Backend Architecture"
     };
 
-    String stack = "Java + Spring Boot + MySQL";
+    String stack =
+        "Java • Spring Boot • MySQL • Multithreading";
 
-    void buildSystems() {
+    void build() {
+
         System.out.println(
             "Some people build apps. I build systems."
         );
@@ -78,7 +66,7 @@ class Robin {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,html,css,js,flask" />
 
 </div>
 
@@ -86,12 +74,16 @@ class Robin {
 
 # 🚀 Featured Projects
 
-| Project                   | Description                              |
-| ------------------------- | ---------------------------------------- |
-| ⚡ Smart Billing Engine    | Subscription & pricing backend engine    |
-| 🏫 School Canteen Backend | Ordering & balance management backend    |
-| 📋 Google Forms Clone     | Dynamic forms backend using Java + MySQL |
-| 🎮 Dungeon Escape         | Retro Java CLI survival game             |
+| Project | Description |
+|---|---|
+| ⚡ **PulseMQ** | Kafka-inspired event streaming engine using Java multithreading & async queues |
+| 🚦 **RateLimitEngine-Java** | Sliding Window API rate limiter inspired by real-world backend throttling systems |
+| 💳 **JSync Subscription Engine** | SaaS billing & subscription backend with renewal cycles, discounts & payment logic |
+| 🧠 **SmartLoanEngine-Java** | Loan eligibility engine using credit score, EMI, DTI ratio & risk analysis |
+| 🔍 **CodeInspector** | Web app that analyzes code complexity, structure & generates downloadable reports |
+| 🧮 **SmartCalculator-Java** | Scientific calculator & expression parser with nested evaluation & precedence |
+| 🌾 **AgriSense-AI** | ML-powered crop recommendation system using soil + mandi price analysis |
+| 🎵 **Spotify Clone (In Progress)** | Full-stack music streaming platform with AI recommendation features |
 
 ---
 
@@ -99,10 +91,26 @@ class Robin {
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 🧠 Current Focus
+
+```txt
+→ Backend System Design
+→ Java Multithreading
+→ Spring Boot APIs
+→ Distributed Systems
+→ Kafka & Event Streaming
+→ Scalable Architecture
+```
 
 ---
 
@@ -121,4 +129,11 @@ class Robin {
 </a>
 
 </div>
-```
+
+---
+
+<div align="center">
+
+### ⚡ "Backend engineering is where logic meets scale."
+
+</div>
