@@ -66,7 +66,7 @@ class Robin {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql,git,github,vscode,html,css,js,flask,sklearn,numpy" />
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql,git,github,vscode,flask,sklearn,numpy" />
 
 </div>
 
