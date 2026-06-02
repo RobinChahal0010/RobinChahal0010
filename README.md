@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Official High-Resolution OpenJDK Java Duke Mascot Vector -->
+<img src="[https://openjdk.org](https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg)" width="130" alt="Java Duke Mascot" />
+
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -74,6 +77,7 @@ class Robin {
 
 # 🚀 Featured Projects
 
+
 | Project | Description |
 |---|---|
 | ⚡ **PulseMQ** | Kafka-inspired event streaming engine using Java multithreading & async queues |
@@ -90,8 +94,6 @@ class Robin {
 # 📊 GitHub Analytics
 
 <div align="center">
-
-
 
 <br><br>
 
