@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Official High-Resolution OpenJDK Java Duke Mascot Vector -->
-<img src="[https://openjdk.org](https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg)" width="130" alt="Java Duke Mascot" />
+<img src="assets/1280px-Duke_(Java_mascot)_waving.svg.png" width="130" alt="Java Duke Mascot" />
 
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
