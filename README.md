@@ -3,7 +3,7 @@
 <!-- Official High-Resolution OpenJDK Java Duke Mascot Vector -->
 <div align="center">
   <img
-    src="assets/duke.png"
+    src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
     width="130"
     style="
       background:#0d1117;
