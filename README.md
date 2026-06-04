@@ -2,16 +2,19 @@
 
 <!-- Official High-Resolution OpenJDK Java Duke Mascot Vector -->
 <div align="center">
-  <img
-    src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
-    width="130"
-    style="
-      background:#0d1117;
-      padding:15px;
-      border-radius:20px;
-      box-shadow:0 0 25px rgba(0,255,156,.3);
-    "
-  />
+  <div style="
+      display:inline-block;
+      background: radial-gradient(circle at top, #00ff9c33, #0d1117 70%);
+      padding:18px;
+      border-radius:25px;
+      box-shadow:0 0 30px rgba(0,255,156,0.25);
+    ">
+    
+    <img src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
+         width="130"
+         style="display:block; margin:auto;" />
+         
+  </div>
 </div>
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
@@ -106,9 +109,11 @@ class Robin {
 <div align="center">
 
 <br><br><img src="https://streak-stats.demolab.com?user=RobinChahal0010&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=RobinChahal0010&show_icons=true&theme=radical&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinChahal0010&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinChahal0010&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
