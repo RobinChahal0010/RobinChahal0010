@@ -3,17 +3,16 @@
 <!-- Official High-Resolution OpenJDK Java Duke Mascot Vector -->
 <div align="center">
   <div style="
-      display:inline-block;
-      background: radial-gradient(circle at top, #00ff9c33, #0d1117 70%);
-      padding:18px;
-      border-radius:25px;
-      box-shadow:0 0 30px rgba(0,255,156,0.25);
-    ">
-    
+    display:inline-block;
+    padding:22px;
+    border-radius:28px;
+    background: linear-gradient(145deg, #0d1117, #0f2a22);
+    box-shadow: 0 0 40px rgba(0,255,156,0.15),
+                inset 0 0 15px rgba(0,255,156,0.08);
+  ">
     <img src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
-         width="130"
-         style="display:block; margin:auto;" />
-         
+         width="135"
+         style="display:block;margin:auto;" />
   </div>
 </div>
 <pre>
