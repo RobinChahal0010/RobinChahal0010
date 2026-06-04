@@ -4,11 +4,10 @@
 <div align="center">
   <div style="
     display:inline-block;
-    padding:22px;
-    border-radius:28px;
-    background: linear-gradient(145deg, #0d1117, #0f2a22);
-    box-shadow: 0 0 40px rgba(0,255,156,0.15),
-                inset 0 0 15px rgba(0,255,156,0.08);
+    padding:24px;
+    border-radius:30px;
+    background: linear-gradient(135deg, #ffffff, #e8fff6);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
   ">
     <img src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
          width="135"
