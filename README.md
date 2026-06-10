@@ -80,7 +80,7 @@ class Robin {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql,git,github,vscode,flask,sklearn,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql,git,github,vscode,flask,sklearn,html,css,js,kafka" />
 
 </div>
 
