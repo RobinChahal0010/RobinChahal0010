@@ -2,15 +2,17 @@
 
 <!-- Official High-Resolution OpenJDK Java Duke Mascot Vector -->
 <div align="center">
-  <div style="
-    
-    
-  ">
-    <img src="assets/ChatGPT Image Jun 14, 2026, 09_14_17 PM - Copy.png"
-         width="135"
-         style="display:block;margin:auto;" />
-  </div>
+
+<img
+src="assets/duke-bike.png"
+width="300"
+alt="Duke Riding Jawa Bike"
+/>
+
+<h3>☕ Java • Spring Boot • Systems Engineering</h3>
+
 </div>
+
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
