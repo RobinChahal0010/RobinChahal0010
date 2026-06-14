@@ -4,15 +4,27 @@
 <div align="center">
   <div style="
     display:inline-block;
-    padding:24px;
-    border-radius:30px;
-    background: radial-gradient(circle, #ffffff, #dfffe9);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    padding:28px;
+    border-radius:32px;
+    background: linear-gradient(
+      135deg,
+      #e8fff2,
+      #d7f8ff,
+      #f4fff8
+    );
+    box-shadow: 0 12px 35px rgba(0,0,0,0.15);
   ">
-    <img src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
-         width="135"
-         style="display:block;margin:auto;" />
+    <img
+      src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
+      width="145"
+      style="
+        display:block;
+        margin:auto;
+        border-radius:20px;
+      "
+    />
   </div>
+</div>
 </div>
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
