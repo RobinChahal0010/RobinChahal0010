@@ -9,7 +9,7 @@
     background: radial-gradient(circle, #ffffff, #dfffe9);
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
   ">
-    <img src="assets/1280px-Duke_(Java_mascot)_waving.svg.png"
+    <img src="assets/ChatGPT Image Jun 14, 2026, 09_14_17 PM - Copy.png"
          width="135"
          style="display:block;margin:auto;" />
   </div>
