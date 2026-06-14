@@ -4,7 +4,7 @@
 <div align="center">
 
 <img
-src="assets/duke-bike.png"
+src="assets/ChatGPT Image Jun 14, 2026, 09_14_17 PM - Copy.png"
 width="300"
 alt="Duke Riding Jawa Bike"
 />
