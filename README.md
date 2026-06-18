@@ -5,7 +5,7 @@
 
 <img
 src="assets/ChatGPT Image Jun 18, 2026, 12_07_40 PM.png"
-width="300"
+
 alt="Duke Riding Jawa Bike"
 />
 
