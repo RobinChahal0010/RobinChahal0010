@@ -4,9 +4,9 @@
 <div align="center">
 
 <img
-src="assets/ChatGPT Image Jun 18, 2026, 12_07_40 PM.png"
-
-alt="Duke Riding Jawa Bike"
+    src="assets/ChatGPT Image Jun 18, 2026, 12_07_40 PM.png"
+    alt="Duke Riding Jawa Bike"
+    width="1000"
 />
 
 <h3>☕ Java • Spring Boot • Systems Engineering</h3>
